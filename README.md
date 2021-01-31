@@ -1,7 +1,11 @@
 web-app-style-transfer
 ==============================
 
-I am following an online tutoriaal to practice how to build a web app with fast-api and streamlit for style-transfer model.
+I am following an online tutorial to practice how to build a web app with fast-api and streamlit for style-transfer model.
+
+Reference: https://testdriven.io/blog/fastapi-streamlit/#async-model-serving
+
+This project is only for practicing FastAPI and Streamlit. I will use the scripts as a base to build another web app for my document understanding project.
 
 Project Organization
 ------------
